@@ -1,8 +1,9 @@
-# Dheeraj — Personal Portfolio Website
+# charan — Personal Portfolio Website
 
 A high-performance single-page personal portfolio engineered with a zero-bloat philosophy, light theme aesthetics, and native web standards.
 
-**Owner**: Dheeraj  
+**Owner**: charan
+
 **Role**: Computer Science Student | Developer | Technology Enthusiast  
 **Education**: B.Tech Computer Science and Engineering, KL University (2025–2029)  
 **Location**: Vijayawada, Andhra Pradesh, India  
